@@ -1,0 +1,6 @@
+{
+  "extends": "./config.base.json",
+  "env": {
+      "gridUrl":"tlcHackathonMasterV2.html"
+  }
+}

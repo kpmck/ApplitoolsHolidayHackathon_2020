@@ -1,0 +1,26 @@
+{
+  "name": "applifashion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kpmck/ApplitoolsHolidayHackathon_2020.git"
+  },
+  "author": "kerry mckeever",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kpmck/ApplitoolsHolidayHackathon_2020/issues"
+  },
+  "homepage": "https://github.com/kpmck/ApplitoolsHolidayHackathon_2020#readme",
+  "dependencies": {
+    "cypress": "^5.6.0"
+  },
+  "devDependencies": {
+    "@applitools/eyes-cypress": "^3.15.5",
+    "@bahmutov/cypress-extends": "^1.1.0"
+  }
+}

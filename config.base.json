@@ -1,0 +1,4 @@
+{
+    "baseUrl": "http://demo.applitools.com/",
+    "$schema": "https://on.cypress.io/cypress.schema.json"
+}
